@@ -1,0 +1,2 @@
+Testes de unidade: São destes de menor granularidade, que testam componentes individuais do software, como classes e métodos de uma classe.
+Testes funcionais: São testes de maior granularidade, que testam a aplicação completa. Simulam a operação do sistema por uma usuário. Acessam a GUI, preenchem formulários, clicamnos botões e etc. 
