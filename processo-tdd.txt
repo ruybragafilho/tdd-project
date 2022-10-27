@@ -1,0 +1,5 @@
+Na fase vermelha, deve-se escrever testes funcionais e de unidade que certamente falharão, pois o código a ser testado ainda não foi escrito.
+
+Na fase verde, deve-se escrever inicialmente código suficiente para que os testes unitários passem, usando o ciclo teste / desenvolvimento para acompanhar quais testes estão passando e quais ainda estão falhando. Depois deve-se implementar pequenos trechos de código funcionais que devem ser testados usando o ciclo teste / desenvolvimento.
+
+Depois que os testes estiverem passando, deve-se verificar a necessidade de refatoração. Se for necessário, deve-se fazer a refatoração e realizar testes para ver se a refatoração não mudou o comportamento da aplicação.
